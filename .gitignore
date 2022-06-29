@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+
+.gradle
+.idea
+
+*.yml
+
+application-real-oauth.properties
+
+build
+out
