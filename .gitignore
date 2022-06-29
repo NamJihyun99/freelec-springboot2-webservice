@@ -4,7 +4,6 @@
 .gradle
 .idea
 
-appspec.yml
 
 application-real-oauth.properties
 
